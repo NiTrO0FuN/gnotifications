@@ -39,11 +39,11 @@
 ### Notification types
 
 ```
-GNotifications.TYPE_INFORMATION = 0
-GNotifications.TYPE_ERROR = 1
-GNotifications.TYPE_IMPORTANT = 2
-GNotifications.TYPE_VALIDATION = 3
-GNotifications.TYPE_NORMAL = 4
+GNotifications.TYPE_INFORMATION
+GNotifications.TYPE_ERROR
+GNotifications.TYPE_IMPORTANT
+GNotifications.TYPE_VALIDATION
+GNotifications.TYPE_NORMAL
 ```
 
 
